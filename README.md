@@ -1,1 +1,3 @@
 # ferrite-beads
+
+See FerriteBeadCharacterization
