@@ -33,5 +33,7 @@ the absolute value of capacitive reactance is equivalent to R.
 ## References
 
 https://www.youtube.com/watch?v=1UbEz73FGCU
+
 https://www.youtube.com/watch?v=KmKQibSDzqM
+
 https://www.analog.com/media/en/technical-documentation/application-notes/an-1368.pdf
