@@ -37,3 +37,8 @@ https://www.youtube.com/watch?v=1UbEz73FGCU
 https://www.youtube.com/watch?v=KmKQibSDzqM
 
 https://www.analog.com/media/en/technical-documentation/application-notes/an-1368.pdf
+
+https://www.allaboutcircuits.com/technical-articles/choosing-and-using-ferrite-beads/
+
+https://www.allaboutcircuits.com/technical-articles/clean-power-for-every-ic-part-3-understanding-ferrite-beads/
+
