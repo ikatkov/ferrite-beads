@@ -8,9 +8,9 @@
 * Setup the bead in the testing fixture
 * Notice that there 3 ways of doing it - see [youtube link](https://www.youtube.com/watch?v=1UbEz73FGCU)
 * Run nano-VNA, record measurements into *.s1p file (Touchstone file format)
-* Use the Juniper notebook for processing and plotting
+* Use the Jupyter notebook for processing and plotting
 
-See [Juniper notebook](./FerriteBeadCharacterization.ipynb)
+See [Jupyter notebook](./FerriteBeadCharacterization.ipynb)
 
 ## Theory
 **Ferrite bead response characteristics**
