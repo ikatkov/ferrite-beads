@@ -24,7 +24,7 @@ especially desirable for electromagnetic interference (EMI) filtering
 applications. The component acts like a resistor, which impedes
 the high frequency noise and dissipates it as heat. The resistive
 region occurs after the bead crossover frequency (X = R) and up
-to the point (shown in Figure 2) where the bead becomes
+to the point where the bead becomes
 capacitive. This capacitive point occurs at the frequency where
 the absolute value of capacitive reactance is equivalent to R.
 
