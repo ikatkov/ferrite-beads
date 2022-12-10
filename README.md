@@ -7,8 +7,16 @@
 * Callibrate the VNA with the testing fixture
 * Setup the bead in the testing fixture
 * Notice that there 3 ways of doing it - see [youtube link](https://www.youtube.com/watch?v=1UbEz73FGCU)
+
+<img src="three-methods.png" width="400">
+
+Pick the one that gives you the least amount of measurement error
+
+<img src="three-methods-error.png" width="400">
+
 * Run nano-VNA, record measurements into *.s1p file (Touchstone file format)
 * Use the Jupyter notebook for processing and plotting
+* Use the bead in it's resistive (green) region
 
 See [Jupyter notebook](./FerriteBeadCharacterization.ipynb)
 
@@ -31,6 +39,8 @@ the absolute value of capacitive reactance is equivalent to R.
 <img src="bead-characteristics.png" width="400">
 
 ## References
+
+https://www.mwrf.com/technologies/test-measurement/article/21849791/copper-mountain-technologies-make-accurate-impedance-measurements-using-a-vna
 
 https://www.youtube.com/watch?v=1UbEz73FGCU
 
