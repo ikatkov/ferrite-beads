@@ -3,7 +3,6 @@
 ## Measure and compute
  **Take measurements of the bead with VNA**
 
-
 * Callibrate the VNA with the testing fixture
 * Setup the bead in the testing fixture
 * Notice that there 3 ways of doing it - see [youtube link](https://www.youtube.com/watch?v=1UbEz73FGCU)
@@ -14,6 +13,7 @@ Pick the one that gives you the least amount of measurement error
 
 <img src="three-methods-error.png" width="400">
 
+* Callibrate nanoVNA in the freq range of interest, say 50k-100k
 * Run nano-VNA, record measurements into *.s1p file (Touchstone file format)
 * Use the Jupyter notebook for processing and plotting
 * Use the bead in it's resistive (green) region
@@ -37,6 +37,14 @@ capacitive. This capacitive point occurs at the frequency where
 the absolute value of capacitive reactance is equivalent to R.
 
 <img src="bead-characteristics.png" width="400">
+
+
+Use this chart from Fair-Rite Products Corp. to roughly map bead materal
+
+<img src="beads-types.jpg" width="400">
+
+
+
 
 ## References
 
